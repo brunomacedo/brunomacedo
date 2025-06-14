@@ -40,5 +40,3 @@ I have strong JavaScript development skills, understanding of new ES6 concepts a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>  
 </p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=brunomacedo&theme=tokyonight&hide_border=true)
