@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bruno Macedo
-I have strong JavaScript development skills, understanding of new ES6 concepts and proficiency in React.
+I've helped build digital experiences that reach over 100M users across 4 countries. Expert in React, TypeScript, and Design Systems.
 
 ## Connect with me:
 
