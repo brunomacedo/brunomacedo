@@ -5,7 +5,7 @@ I am currently a **Senior Front-end Engineer at UOL**, focused on React, TypeScr
 
 ## Connect with me:
 
-<table><tr>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
 <td><a href="https://codepen.io/brunomacedo" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a></td>
 <td><a href="https://linkedin.com/in/brmcedo" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
 <td><a href="https://stackoverflow.com/users/8686395" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a></td>
@@ -14,7 +14,7 @@ I am currently a **Senior Front-end Engineer at UOL**, focused on React, TypeScr
 
 ## Languages and Tools:
 
-<table><tr>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
 <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="40" height="40" /></a></td>
 <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="40" height="40" /></a></td>
 <td><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/refs/heads/master/images/svg/tailwindCss.svg" alt="Tailwind CSS logo" width="40" height="40" /></a></td>
